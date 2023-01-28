@@ -16,5 +16,5 @@ https://github.com/poornima-vj/PJ_MASKS_P2J2_PHOTO-EDITOR-TOOL/blob/main/Image_b
 
 ### Image after editing
 
-
+https://github.com/poornima-vj/PJ_MASKS_P2J2_PHOTO-EDITOR-TOOL/blob/main/Image_after.jpg
 
