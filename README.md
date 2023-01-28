@@ -9,6 +9,7 @@ Python concepts, Pillow library and Tkinter package has  been used to develop th
 
 ## **Output:**
 
+https://github.com/poornima-vj/PJ_MASKS_P2J2_PHOTO-EDITOR-TOOL/blob/main/output.png
 ### Image before editing
 
 https://github.com/poornima-vj/PJ_MASKS_P2J2_PHOTO-EDITOR-TOOL/blob/main/Image_before.jpg
