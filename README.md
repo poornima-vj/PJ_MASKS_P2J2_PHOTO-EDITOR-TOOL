@@ -9,13 +9,13 @@ Python concepts, Pillow library and Tkinter package has  been used to develop th
 
 ## **Output:**
 
-https://github.com/poornima-vj/PJ_MASKS_P2J2_PHOTO-EDITOR-TOOL/blob/main/output.png
+![Image Editor](https://github.com/poornima-vj/PJ_MASKS_P2J2_PHOTO-EDITOR-TOOL/blob/main/output.png)
 ### Image before editing
 
-https://github.com/poornima-vj/PJ_MASKS_P2J2_PHOTO-EDITOR-TOOL/blob/main/Image_before.jpg
+![Image_before](https://github.com/poornima-vj/PJ_MASKS_P2J2_PHOTO-EDITOR-TOOL/blob/main/Image_before.jpg)
 
 
 ### Image after editing
 
-https://github.com/poornima-vj/PJ_MASKS_P2J2_PHOTO-EDITOR-TOOL/blob/main/Image_after.jpg
+![Image_after](https://github.com/poornima-vj/PJ_MASKS_P2J2_PHOTO-EDITOR-TOOL/blob/main/Image_after.jpg)
 
